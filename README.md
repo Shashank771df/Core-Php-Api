@@ -1,3 +1,2 @@
-# Personal_repo_2
-# Powered by Shashank chaudhary
-# Php Stuff
+# Core php Api without authentication but it provide results.
+# by Shashank chaudhary.
